@@ -1,0 +1,38 @@
+\select@language {portuges}
+\contentsline {chapter}{\numberline {1}Introdu\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {section}{\numberline {1.1}Contextualiza\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {section}{\numberline {1.2}Motiva\IeC {\c c}\IeC {\~a}o}{4}
+\contentsline {section}{\numberline {1.3}Objetivos}{5}
+\contentsline {chapter}{\numberline {2}An\IeC {\'a}lise de Requisitos}{6}
+\contentsline {section}{\numberline {2.1}Fase 1}{6}
+\contentsline {subsection}{\numberline {2.1.1}Tarefa 1}{6}
+\contentsline {subsection}{\numberline {2.1.2}Tarefa 2}{7}
+\contentsline {subsection}{\numberline {2.1.3}Tarefa 3}{8}
+\contentsline {section}{\numberline {2.2}Fase 2}{9}
+\contentsline {subsection}{\numberline {2.2.1}Tarefa 4}{9}
+\contentsline {subsection}{\numberline {2.2.2}Tarefa 5}{10}
+\contentsline {subsection}{\numberline {2.2.3}Tarefa 6}{10}
+\contentsline {chapter}{\numberline {3}A Nossa Solu\IeC {\c c}\IeC {\~a}o}{11}
+\contentsline {section}{\numberline {3.1}Fase 1}{11}
+\contentsline {subsection}{\numberline {3.1.1}Tarefa 1}{11}
+\contentsline {subsection}{\numberline {3.1.2}Tarefa 2}{13}
+\contentsline {subsection}{\numberline {3.1.3}Tarefa 3}{15}
+\contentsline {section}{\numberline {3.2}Fase 2}{16}
+\contentsline {subsection}{\numberline {3.2.1}Tarefa 4}{16}
+\contentsline {subsubsection}{Atualiza\IeC {\c c}\IeC {\~a}o da Velocidade}{17}
+\contentsline {subsection}{\numberline {3.2.2}Atualizar a quantidade de Nitro}{20}
+\contentsline {subsubsection}{Atualizar Dire\IeC {\c c}\IeC {\~a}o}{21}
+\contentsline {subsubsection}{Atualizar o Hist\IeC {\'o}rico}{22}
+\contentsline {subsection}{\numberline {3.2.3}Tarefa 5}{23}
+\contentsline {subsubsection}{Elabora\IeC {\c c}\IeC {\~a}o da \emph {desenhaJogo}}{24}
+\contentsline {subsubsection}{Elabora\IeC {\c c}\IeC {\~a}o da \emph {desenhaMenus}}{30}
+\contentsline {subsubsection}{Elabora\IeC {\c c}\IeC {\~a}o da \textbf {reageTempo}}{31}
+\contentsline {subsubsection}{Elabora\IeC {\c c}\IeC {\~a}o da fun\IeC {\c c}\IeC {\~a}o \textbf {reageEvento}}{34}
+\contentsline {subsubsection}{Fun\IeC {\c c}\IeC {\~a}o \textbf {joga}}{36}
+\contentsline {subsubsection}{Fun\IeC {\c c}\IeC {\~a}o \textbf {main}}{36}
+\contentsline {subsection}{\numberline {3.2.4}Tarefa 6}{38}
+\contentsline {subsubsection}{Elabora\IeC {\c c}\IeC {\~a}o da fun\IeC {\c c}\IeC {\~a}o \textbf {bot}}{41}
+\contentsline {section}{\numberline {3.3}Documenta\IeC {\c c}\IeC {\~a}o}{42}
+\contentsline {chapter}{\numberline {4}Valida\IeC {\c c}\IeC {\~a}o da Solu\IeC {\c c}\IeC {\~a}o}{43}
+\contentsline {chapter}{\numberline {5}Conclus\IeC {\~a}o}{45}
+\contentsline {chapter}{\numberline {6}Bibliografia}{47}
